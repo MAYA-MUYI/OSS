@@ -4,8 +4,8 @@ import os
 import shutil
 
 
-access_key_id = os.getenv('OSS_TEST_ACCESS_KEY_ID', 'LTAIwmIDMn3td8tv')
-access_key_secret = os.getenv('OSS_TEST_ACCESS_KEY_SECRET', '7KVaHZZQdOqVsiaftwWOBvLYL2sHaM')
+access_key_id = os.getenv('OSS_TEST_ACCESS_KEY_ID', 'your key')
+access_key_secret = os.getenv('OSS_TEST_ACCESS_KEY_SECRET', 'your secret')
 bucket_name = os.getenv('OSS_TEST_BUCKET', 'maya-test3')
 endpoint = os.getenv('OSS_TEST_ENDPOINT', 'http://oss-cn-beijing.aliyuncs.com')
 path = os.path.abspath('.')
