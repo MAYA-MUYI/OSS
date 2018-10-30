@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b990e6-5a4e-490f-9a45-4b43f578b9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/read_statistics/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/blog/blogs_with_date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/spiders/MzSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/gallery/foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/gallery/set1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/jquery.infinitescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test4_auto_download_img/douban1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test7_lagou/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/article/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/article/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/my_blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/my_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/templates/home.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/sdk$sdk.coverage" NAME="sdk Coverage Results" MODIFIED="1539695130123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-986121317">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2222" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2222" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>path</find>
+      <find>dirs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sdk.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sdk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sdk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sdk" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sdk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sdk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b990e6-5a4e-490f-9a45-4b43f578b9ab" name="Default Changelist" comment="" />
+      <created>1539676975523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539676975523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="25" width="1920" height="983" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32996634" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+            <marker date="1539695336000" expanded="true" signature="481:803" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="959:964" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="1711:2490" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="2541:2542" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="2541:3398" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="3839:3840" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="3839:4121" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="4521:4525" ph="..." />
+            <marker date="1539695336000" expanded="true" signature="5008:5375" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
