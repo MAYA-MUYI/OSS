@@ -7,4 +7,4 @@ idna==2.7
 oss2==2.5.0
 pycryptodome==3.6.6
 requests==2.19.1
-urllib3==1.23
+urllib3==1.26.5
